@@ -1,9 +1,9 @@
 # AttendanceAssistant
-Requirments-
-  Python version: 2.7.*
-  Operating System: Any
-  File Supported: Excel sheets(.xlsx)
-  No internet connection required
+Requirments-/n
+  Python version: 2.7.*/n
+  Operating System: Any OS/n
+  File Supported: Excel sheets(.xlsx)/n
+  No internet connection required/n
  
-Set your own username and password in the code.
+/nSet your own username and password in the code./n
 Requires a pre-build excel sheet.
